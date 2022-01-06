@@ -6,7 +6,7 @@ email scenarios that use SMTP
 
 The Services that come up as follows
 1) mailcatcher - UI to see the emails that have been sent to the SMTP endpoint - Port 1080
-2) postfix - exposes the SMTP endpoint on 1025 for SMTP clients to connect and send mail
+2) postfix - exposes the SMTP endpoint on 1025 for SMTP clients to connect and send mail - Port 1025
 
 
 Thanks to the Mailcatcher team for the wonderful tool
